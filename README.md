@@ -53,7 +53,18 @@ Screenshots
 <img width="163" alt="image" src="https://github.com/user-attachments/assets/fcd52c98-f824-4ac3-9773-36360f11d06f" />
 
 
+/////////////React Native (including with Expo or bare React Native) supports almost everything except a few specific system-level tasks that are either:
+
+OS-level protected (like forcing Wi-Fi connections)
+
+Or require native modules or permissions beyond Expo
+
+Creating a hotspot programmatically (setting SSID + password) is restricted on most Android versions, and completely blocked on iOS.  //////////
+
+
 <img width="161" alt="image" src="https://github.com/user-attachments/assets/e91e89b7-d875-408d-abf2-92ac1c217d31" />
 
 
-
+References 
+https://reactnative.dev/docs/environment-setup
+https://docs.expo.dev/
