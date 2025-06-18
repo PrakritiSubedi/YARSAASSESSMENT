@@ -29,6 +29,22 @@ Start the app /
 npx expo start
 
 Backend Configuration (PHP + XAMPP)
+API Endpoints:
+login.php — User authentication
+
+log_activity.php — Log user actions
+
+get_logs.php — Admin: view activity logs
+
+get_ready_to_ship_items.php — Warranty item
+
+📦 DB Name: youcan
+
+API TEST
+
+<img width="845" alt="image" src="https://github.com/user-attachments/assets/f5ec0193-63d8-42b3-8e8a-822d0fba9871" />
+
+
 
 Screenshots
 
