@@ -31,8 +31,13 @@ npx expo start
 Backend Configuration (PHP + XAMPP)
 
 Screenshots
-![WhatsApp Image 2025-06-18 at 08 36 07_cd71cede](https://github.com/user-attachments/assets/8defc640-2260-43d9-8f29-37d7cae28b73)
+
+<img width="161" alt="image" src="https://github.com/user-attachments/assets/8515b3da-1690-45b2-a37f-ae20a998c576" />
+
 <img width="163" alt="image" src="https://github.com/user-attachments/assets/fcd52c98-f824-4ac3-9773-36360f11d06f" />
+
+
+<img width="161" alt="image" src="https://github.com/user-attachments/assets/e91e89b7-d875-408d-abf2-92ac1c217d31" />
 
 
 
